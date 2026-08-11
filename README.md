@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💫 About Me: 
+Hi there, I'm Kamal Chhetri 👋<br><br>🎓 **Ph.D. Candidate in Plant Pathology** at **Virginia Tech**  <br>🧬 Researching Airborne Fungal Pathogens, Molecular Diagnostics & Predictive Modeling  <br><br>---<br><br>### 🔬 About Me<br><br>- 🌾 **Research Focus:** My doctoral research integrates multi-location field trials, molecular diagnostics, metagenomic pathogen surveillance, and machine learning models to analyze spatio-temporal dynamics of fungal disease in crop systems.<br>- 🧪 **Diagnostics & Sequencing:** Hands-on experience with Nanopore MinION sequencing, metagenomics, PCR, and qPCR workflows for pathogen detection.<br>- 📊 **Data Science & ML:** Developing disease risk prediction frameworks and statistical models integrating environmental data, spore trap surveillance, and host dynamics.<br>- 🎓 **Education:** <br>  - **Ph.D. in Plant Pathology** – Virginia Tech *(Expected Dec 2026)*<br>  - **M.S. in Biotechnology (Plant Breeding)** – West Virginia State University<br><br>---<br><br>### 🛠️ Tools & Technologies<br><br>- **Languages & Frameworks:** Python, R, Keras, Bash<br>- **Data & Statistics:** Generalized Linear Mixed Models (GLMM), Time-Series Analysis, Ecological Data Transformations (Hellinger, Diversity Metrics)<br>- **Genomics & Bioinformatics:** Nanopore MinION Sequencing, Metagenomic Surveillance, PCR/qPCR<br>- **Workflow & AI:** Ollama (Local LLMs), Git/GitHub, Reproducible Research Workflows<br><br>---<br><br>###  📫 Connect with Me<br><br>- 🌐 **Location:** Blacksburg, VA<br>- 🎓 **Institutional Email:** [Your VT Email]<br>- 💼 **LinkedIn:** [Your LinkedIn Profile URL]<br>- 📝 **Google Scholar:** [Your Google Scholar Profile URL]<br><br>---<br><br>> *"Bridging molecular plant pathology, data science, and disease forecasting to safeguard agriculture."*
 
-<!--
-**kamalchhetrii/kamalchhetrii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kamalchhetrii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=kamalchhetrii&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kamalchhetrii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=kamalchhetrii&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
